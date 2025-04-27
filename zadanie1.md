@@ -110,31 +110,31 @@ Dołączone screeny:
 
 ### Rys. 1. Budowanie obrazu (`docker build`)
 
-![Budowanie obrazu](screenshots/rys1_build.png)
+![Budowanie obrazu](rys1_build.png)
 
 ### Rys. 2. Uruchamianie kontenera (`docker run`)
 
-![Uruchamianie kontenera](screenshots/rys2_run.png)
+![Uruchamianie kontenera](rys2_run.png)
 
 ### Rys. 3. Logi uruchomienia (`docker logs`)
 
-![Logi kontenera](screenshots/rys3_logs.png)
+![Logi kontenera](rys3_logs.png)
 
 ### Rys. 4. Formularz wyboru kraju i miasta
 
-![Formularz wyboru](screenshots/rys4_formularz.png)
+![Formularz wyboru](rys4_formularz.png)
 
 ### Rys. 5. Wyświetlenie aktualnej pogody
 
-![Wynik pogody](screenshots/rys5_wynik.png)
+![Wynik pogody](rys5_wynik.png)
 
 ### Rys. 6. Sprawdzenie rozmiaru obrazu (`docker images`)
 
-![Rozmiar obrazu](screenshots/rys6_images.png)
+![Rozmiar obrazu](rys6_images.png)
 
 ### Rys. 7. Sprawdzenie liczby warstw (`docker image history`)
 
-![Liczba warstw obrazu](screenshots/rys7_layers.png)
+![Liczba warstw obrazu](rys7_layers.png)
 
 # 6. Uwagi końcowe
 Projekt spełnia wszystkie wymagania zadania obowiązkowego.
